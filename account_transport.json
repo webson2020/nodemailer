@@ -1,0 +1,10 @@
+{
+    "service": "gmail",
+    "auth": {
+      "type": "OAuth2",
+      "user": "nicolasr@tricepsmda.com",
+      "clientId": "245751339092-on5ofbisl22bp32a3s1t93rpinf7ucst.apps.googleusercontent.com",
+      "clientSecret": "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",
+      "refreshToken": "1//04mJ6zwHgTFf-CgYIARAAGAQSNwF-L9IruepTsemyf48hom6W9ESJpKT3zf4DQLqx2eUYUjZQuUTxRTqgwFrbZEs34RvnTtzcMuQ"
+    }
+  }
